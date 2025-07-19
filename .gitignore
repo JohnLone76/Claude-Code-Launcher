@@ -1,0 +1,33 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell
+*.ps1xml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+
+# Personal configuration
+config.local.*
+*_local.*
+
+# API Keys and sensitive data
+.env
+.env.local
+*.key
+*.secret
+
+# Claude Code specific
+.claude/ 
